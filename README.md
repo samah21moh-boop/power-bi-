@@ -1,7 +1,7 @@
 # power-bi-
 Power Bi Projects
 HR Analytics Dashboard
-![HR Dashboard](image/HR_Dashboard.png)
+https://github.com/samah21moh-boop/image/blob/main/HR%20Dashboard.png
 
 Objective: Analyzed employee data to identify patterns in attrition, salary distribution, and workforce diversity.
 
